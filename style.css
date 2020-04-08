@@ -1,0 +1,12 @@
+body {
+    background-image: url('mages/White-Marble.jpeg');
+}
+
+#footer-css {
+    width: 100%;
+    background-color: grey;
+    bottom: 0;
+    height: 50px;
+    position: fixed;
+    border-top: 8px solid #83b5a8; 
+}
