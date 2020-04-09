@@ -2,7 +2,7 @@ body {
     background-image: url('mages/White-Marble.jpeg');
 }
 
-#footer-css {
+.footer-css {
     width: 100%;
     background-color: grey;
     bottom: 0;
