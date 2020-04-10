@@ -41,6 +41,12 @@ body {
     float: right;
 }
 
+.ham-link {
+    float: right;
+    margin-top: 12px;
+    margin-right: 20px;
+}
+
 
 #image {
     margin-right: 20px;
