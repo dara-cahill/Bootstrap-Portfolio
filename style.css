@@ -47,6 +47,17 @@ body {
     margin-right: 20px;
 }
 
+.h1-style {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #83b5a8;
+    font-size: 35px;
+}
+
+hr {
+    height: 1px;
+    background: gray;
+    margin-bottom: 15px;
+}
 
 #image {
     margin-right: 20px;
