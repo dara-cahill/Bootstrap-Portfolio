@@ -10,6 +10,7 @@ body {
     border-bottom: 2px solid grey;
 }
 
+
 .name {
     background-color: #83b5a8;
     font-weight: bold;
@@ -48,6 +49,14 @@ hr {
 #image {
     margin-right: 20px;
     margin-bottom: 20px;
+}
+
+.portfolio-container {
+    background-color: aquamarine;
+}
+
+.portfolio-container-red {
+    background-color: red;
 }
 
 .footer-css {
